@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Event Hub</title>
+  </head>
+  <body>
+    <header>
+      <h1>Event Hub</h1>
+      <nav>
+        <ul>
+          <li><a href="#upcoming-events">Upcoming Events</a></li>
+          <li><a href="#past-events">Past Events</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+
+        <article>
+          <h3>Tech Conference 2026</h3>
+          <p>Join us for the premier technology event of the year featuring leading industry speakers and hands-on workshops.</p>
+        </article>
+
+        <article>
+          <h3>Web Dev Meetup</h3>
+          <p>A community gathering for front-end developers to share knowledge, discuss new web frameworks, and network.</p>
+        </article>
+      </section>
+
+      <section id="past-events">
+        <h2>Past Events</h2>
+
+        <article>
+          <h3>Design Systems Summit</h3>
+          <p>A look back at our annual design summit where leaders discussed scalability and component architecture.</p>
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Attendees listening to a keynote presentation at a tech conference">
+        </article>
+
+        <article>
+          <h3>Hackathon 2025</h3>
+          <p>Participants spent 48 hours building innovative software tools to solve real-world community challenges.</p>
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Developers collaborating on laptops during a hackathon event">
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
