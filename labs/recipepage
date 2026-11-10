@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Delicious Chocolate Chip Cookies</title>
+  </head>
+  <body>
+    <h1>Delicious Chocolate Chip Cookies</h1>
+    <p>A classic recipe for soft, chewy, and rich chocolate chip cookies that are quick and easy to make at home.</p>
+    
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A freshly baked batch of chocolate chip cookies on a cooling rack">
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>2 cups all-purpose flour</li>
+      <li>1 cup softened butter</li>
+      <li>1 cup chocolate chips</li>
+      <li>1 cup brown sugar</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Preheat your oven to 375°F (190°C).</li>
+      <li>Mix the softened butter and brown sugar together until smooth.</li>
+      <li>Stir in the flour and fold in the chocolate chips until a dough forms.</li>
+      <li>Bake small scoops of dough on a baking sheet for 10-12 minutes until golden brown.</li>
+    </ol>
+  </body>
+</html>
