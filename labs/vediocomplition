@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Video Compilation</title>
+</head>
+<body>
+  <main>
+    <h1>My Web Development Journey</h1>
+    <p>Explore these videos to learn the basics of web development, from HTML to CSS and JavaScript.</p>
+
+    <section>
+      <h2>Learning HTML</h2>
+      <p>Discover how HTML provides the structure of web pages.</p>
+      <iframe
+        src="https://www.youtube.com/embed/UB1O30fR-EE"
+        title="HTML Crash Course"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>Learning CSS</h2>
+      <p>Learn how CSS makes websites attractive through styling.</p>
+      <iframe
+        src="https://www.youtube.com/embed/yfoY53QXEnI"
+        title="CSS Crash Course"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>Learning JavaScript</h2>
+      <p>Understand how JavaScript adds functionality and interactivity.</p>
+      <iframe
+        src="https://www.youtube.com/embed/W6NZfCO5SIk"
+        title="JavaScript Tutorial"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+  </main>
+</body>
+</html>
+
